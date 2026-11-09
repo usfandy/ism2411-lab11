@@ -1,3 +1,8 @@
+#i would use .get() when im not sure if a key exists because it prevents crashing. I would use bracket notation when i know the key exists and i need its value
+#It reminds me of pivottables in excel because both can summarize data into different categories. Python is more useful for larger data sets though because it can automate the process and handle those bigger sets easier and more efficiently
+
+
+
 #Exercise 1
 
 customer = {
